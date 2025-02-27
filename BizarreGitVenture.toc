@@ -1,0 +1,11 @@
+## Interface: 110007
+## Title: BizarreGitVenture
+## Notes: 
+## Version: 
+## Author: LegolandoBloom
+## SavedVariables: BizarreVariables, 
+## SavedVariablesPerCharacter: 
+
+BizarreGitVenture.xml
+BizarreGitVenture.lua
+BizarreGitVenture.xml
