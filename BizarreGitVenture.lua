@@ -1,0 +1,1 @@
+print("Git is very intuitive and programmers are very understanding")
