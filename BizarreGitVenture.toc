@@ -5,6 +5,7 @@
 ## Author: LegolandoBloom
 ## SavedVariables: BizarreVariables, 
 ## SavedVariablesPerCharacter: 
+## X-Curse-Project-ID: 1210767
 
 BizarreGitVenture.xml
 BizarreGitVenture.lua

@@ -1,0 +1,10 @@
+required-dependencies:
+
+optional-dependencies:
+
+embedded-libraries:
+
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
