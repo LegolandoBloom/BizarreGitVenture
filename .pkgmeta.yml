@@ -4,6 +4,7 @@ optional-dependencies:
 
 embedded-libraries:
 
+package-as: BizarreGitVenture
 
 manual-changelog:
   filename: CHANGELOG.md
